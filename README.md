@@ -41,5 +41,7 @@ In general, jsPsych has pretty good documentation. You can have a look at their 
 AI tools that might be interesting for the Hackathon
 
 [TensorflowJS](https://www.tensorflow.org/js): deep nets in the browser (check the cool demos)
+
 [OpenAI API](https://openai.com/blog/openai-api): large language models (if you don't have one already it is a good idea to sign up for an OpenAI API account)
+
 [Unity Experiment Framework](https://immersivecognition.com/projects/uxf-unity-experiment-framework/): routines to program cognitive experiments using Unity, VR-oriented
